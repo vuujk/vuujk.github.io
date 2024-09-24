@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vuujk.github.io/ljc/sitemap.ljc.gz
